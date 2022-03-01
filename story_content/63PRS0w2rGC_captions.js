@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.44.23192.0%0D%0A%0D%0A00:00:00.160%20--%3E%2000:00:03.416%0D%0AUnderstand%20how%20your%20presentation%20could%20benefit%20from%20using%20right%20fonts.%0D%0A%0D%0A"}')
